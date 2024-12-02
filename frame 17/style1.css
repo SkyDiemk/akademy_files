@@ -1,0 +1,306 @@
+.frame17{
+    position: absolute;
+    width: 1440px;
+    height: 664px;
+    left: 0px;
+    top: 2215px;
+}
+
+.frame_12{
+    position: absolute;
+    width: 416px;
+    height: 225px;
+    left: 72px;
+    top: 120px;
+}
+
+.skills{
+    position: absolute;
+    width: 368px;
+    height: 135px;
+    left: 0px;
+    top: 90px;
+
+    font-family: 'Sen';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 150%;
+
+    display: flex;
+    align-items: center;
+
+    color: #8491A0;
+}
+
+.frame_12 h1{
+    position: absolute;
+    width: 189px;
+    height: 66px;
+    left: 0px;
+    top: 0px;
+    
+    font-family: 'Sen';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 55px;
+    line-height: 66px;
+    display: flex;
+    align-items: center;
+    color: white;
+}
+
+.frame_11{
+    position: absolute;
+    width: 416px;
+    height: 176px;
+    left: 512px;
+    top: 120px;
+}
+
+.work{
+    position: absolute;
+    width: 368px;
+    height: 72px;
+    left: 0px;
+    top: 104px;
+
+    font-family: 'Sen';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    display: flex;
+    align-items: center;
+
+    color: #8491A0;
+}
+
+.product{
+    position: absolute;
+    width: 177px;
+    height: 20px;
+    left: 0px;
+    top: 56px;
+
+    font-family: 'Sen';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 150%;
+
+    display: flex;
+    align-items: center;
+
+    color: #FFFFFF;
+}
+
+.Vector{
+    position: absolute;
+    left: 0%;
+    right: 92.31%;
+    top: 15%;
+    bottom: 81.82%;
+}
+
+.frame_14{ 
+    position: absolute;
+    width: 416px;
+    height: 200px;
+    left: 512px;
+    top: 344px;
+}
+
+.motion{
+    position: absolute;
+    width: 168px;
+    height: 36px;
+    left: 0px;
+    top: 45px;
+
+    font-family: 'Sen';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 150%;
+
+    display: flex;
+    align-items: center;
+
+    color: #FFFFFF;
+}
+
+.start{
+    position: absolute;
+    width: 368px;
+    height: 96px;
+    left: 0px;
+    top: 104px;
+
+    font-family: 'Sen';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+
+    display: flex;
+    align-items: center;
+
+    color: #8491A0;
+}
+
+.Polygon{
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    left: 11px;
+    top: 11px;
+}
+
+.ellipse{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    left: 0px;
+    top: 0px;
+}
+
+.frame_13{
+    position: absolute;
+    width: 416px;
+    height: 176px;
+    left: 952px;
+    top: 120px;
+}
+
+.Visual{
+    position: absolute;
+    width: 157px;
+    height: 36px;
+    left: 0px;
+    top: 56px;
+
+    font-family: 'Sen';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 150%;
+
+    display: flex;
+    align-items: center;
+
+    color: #FFFFFF;
+}
+
+.exp{
+    position: absolute;
+    width: 368px;
+    height: 72px;
+    left: 0px;
+    top: 104px;
+    font-family: 'Sen';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+
+    display: flex;
+    align-items: center;
+
+    color: #8491A0;
+}
+
+.vector{
+    position: absolute;
+    left: 0%;
+    right: 93.96%;
+    top: 30px;
+    bottom: 81.70%;
+}
+
+.Vector1{
+    position: absolute;
+    left: 4.14%;
+    right: 92.31%;
+    top: 24px;
+    bottom: 91.6%;
+}
+
+.frame_15{
+    position: absolute;
+    width: 416px;
+    height: 176px;
+    left: 952px;
+    top: 344px;
+}
+
+.photo{
+    position: absolute;
+    width: 152px;
+    height: 36px;
+    left: 0px;
+    top: 56px;
+    font-family: 'Sen';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 150%;
+
+    display: flex;
+    align-items: center;
+
+    color: #FFFFFF;
+}
+
+.click{
+    position: absolute;
+    width: 368px;
+    height: 72px;
+    left: 0px;
+    top: 104px;
+
+    font-family: 'Sen';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+
+    display: flex;
+    align-items: center;
+
+    color: #8491A0;
+}
+
+.Vector2{
+    position: absolute;
+    left: 21px;
+    right: 25.93%;
+    top: 63px;
+    bottom: 23.96%;
+}
+
+.Vector3{
+    position: absolute;
+    left: 2px;
+    right: 77.78%;
+    top: 51px;
+    bottom: 49.88%;
+}
+
+.Vector4{
+    position: absolute;
+    left: 10px;
+    right: 18.52%;
+    top: 50px;
+    bottom: 20.25%;
+}
+
+.Vector5{
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 43px;
+    bottom: 9.14%;
+}

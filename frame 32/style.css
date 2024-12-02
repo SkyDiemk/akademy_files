@@ -1,0 +1,113 @@
+.frame_32{
+    position: absolute;
+    width: 1440px;
+    height: 1248px;
+}
+
+.group_85{
+    position: absolute;
+    width: 636px;
+    height: 212px;
+}
+
+.drib{
+    position: absolute;
+    width: 230px;
+    height: 66px;
+    left: 182px;
+    top: 100px;
+    font-family: 'Sen';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 55px;
+    line-height: 66px;
+    display: flex;
+    align-items: center;
+    color: white;
+}
+
+.dribb{
+    position: absolute;
+    width: 636px;
+    height: 54px;
+    left: 182px;
+    top: 210px;
+
+    font-family: 'Sen';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 150%;
+
+    display: flex;
+    align-items: center;
+
+    color: #8491A0;
+}
+
+.follow{
+    position: absolute;
+    width: 171px;
+    height: 24px;
+    left: 182px;
+    top: 304px;
+    font-family: 'Sen';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    display: flex;
+    align-items: center;
+    color: #FFFFFF;
+}
+
+.line{
+    position: absolute;
+    width: 147px;
+    height: 0px;
+    left: 183px;
+    top: 347px;
+    border: 1px solid #8491A0;
+}
+
+.Rectangle{
+    position: absolute;
+    width: 1076px;
+    height: 640px;
+    left: 182px;
+    top: 488px;
+}
+
+.Rectangle1{
+    position: absolute;
+    width: 1076px;
+    height: 36px;
+    left: 182px;
+    top: 452px;
+    background: #181823;
+    border-radius: 8px 8px 0px 0px;
+}
+
+.ellipse{
+    position: absolute;
+    width: 12px;
+    height: 12px;
+    left: 198px;
+    top: 464px;
+}
+
+.ellipse1{
+    position:absolute;
+    width: 12px;
+    height: 12px;
+    left: 216px;
+    top: 464px;
+}
+
+.ellipse2{
+    position: absolute;
+    width: 12px;
+    height: 12px;
+    left: 234px;
+    top: 464px;
+}
